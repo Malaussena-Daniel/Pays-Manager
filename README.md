@@ -1,1 +1,1 @@
-Communication avec une API listant tous les Pays (React, Axios).
+Communication avec une API (REST) listant tous les Pays (React, Axios).
